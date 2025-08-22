@@ -1,0 +1,255 @@
+Using device: cuda
+Dataset sizes - Train: 7000, Eval: 1000, Test: 2000
+Fine-tuning completo - todas las capas se entrenarán
+Parámetros totales: 42,705,060
+Parámetros entrenables: 42,705,060
+Parámetros congelados: 0
+Optimización con learning rates diferenciados
+Starting training...
+
+Epoch [1/100]
+Train Loss: 4.0778 Acc: 7.66% | Eval Loss: 3.3197 Acc: 18.20% Prec: 0.19 Recall: 0.18 F1: 0.14
+✅ New best model saved with eval accuracy: 18.20%
+
+Epoch [2/100]
+Train Loss: 2.9716 Acc: 20.84% | Eval Loss: 2.4892 Acc: 29.10% Prec: 0.32 Recall: 0.29 F1: 0.24
+✅ New best model saved with eval accuracy: 29.10%
+
+Epoch [3/100]
+Train Loss: 2.4876 Acc: 30.87% | Eval Loss: 2.0565 Acc: 40.60% Prec: 0.41 Recall: 0.41 F1: 0.37
+✅ New best model saved with eval accuracy: 40.60%
+
+Epoch [4/100]
+Train Loss: 2.2131 Acc: 36.20% | Eval Loss: 1.6395 Acc: 50.40% Prec: 0.54 Recall: 0.50 F1: 0.47
+✅ New best model saved with eval accuracy: 50.40%
+
+Epoch [5/100]
+Train Loss: 1.9962 Acc: 42.47% | Eval Loss: 1.8630 Acc: 47.90% Prec: 0.52 Recall: 0.48 F1: 0.44
+
+Epoch [6/100]
+Train Loss: 1.8303 Acc: 45.79% | Eval Loss: 1.7168 Acc: 52.20% Prec: 0.52 Recall: 0.52 F1: 0.49
+✅ New best model saved with eval accuracy: 52.20%
+
+Epoch [7/100]
+Train Loss: 1.7676 Acc: 47.64% | Eval Loss: 1.4244 Acc: 56.80% Prec: 0.61 Recall: 0.57 F1: 0.54
+✅ New best model saved with eval accuracy: 56.80%
+
+Epoch [8/100]
+Train Loss: 1.6095 Acc: 51.56% | Eval Loss: 1.3995 Acc: 60.00% Prec: 0.67 Recall: 0.60 F1: 0.58
+✅ New best model saved with eval accuracy: 60.00%
+
+Epoch [9/100]
+Train Loss: 1.5100 Acc: 53.64% | Eval Loss: 1.4423 Acc: 58.70% Prec: 0.63 Recall: 0.59 F1: 0.57
+
+Epoch [10/100]
+Train Loss: 1.4399 Acc: 55.37% | Eval Loss: 1.4433 Acc: 58.20% Prec: 0.64 Recall: 0.58 F1: 0.56
+
+Epoch [11/100]
+Train Loss: 1.3677 Acc: 57.63% | Eval Loss: 1.3784 Acc: 57.70% Prec: 0.65 Recall: 0.58 F1: 0.56
+
+Epoch [12/100]
+Train Loss: 1.3113 Acc: 59.09% | Eval Loss: 1.2494 Acc: 63.80% Prec: 0.70 Recall: 0.64 F1: 0.62
+✅ New best model saved with eval accuracy: 63.80%
+
+Epoch [13/100]
+Train Loss: 1.2360 Acc: 61.03% | Eval Loss: 1.2062 Acc: 65.50% Prec: 0.69 Recall: 0.66 F1: 0.63
+✅ New best model saved with eval accuracy: 65.50%
+
+Epoch [14/100]
+Train Loss: 1.2258 Acc: 61.54% | Eval Loss: 1.2410 Acc: 65.00% Prec: 0.71 Recall: 0.65 F1: 0.63
+
+Epoch [15/100]
+Train Loss: 1.1154 Acc: 65.19% | Eval Loss: 1.0969 Acc: 67.90% Prec: 0.74 Recall: 0.68 F1: 0.67
+✅ New best model saved with eval accuracy: 67.90%
+
+Epoch [16/100]
+Train Loss: 1.1167 Acc: 64.69% | Eval Loss: 1.1591 Acc: 67.70% Prec: 0.72 Recall: 0.68 F1: 0.66
+
+Epoch [17/100]
+Train Loss: 1.1217 Acc: 63.93% | Eval Loss: 1.4522 Acc: 62.40% Prec: 0.67 Recall: 0.62 F1: 0.60
+
+Epoch [18/100]
+Train Loss: 1.0665 Acc: 66.07% | Eval Loss: 1.2881 Acc: 64.70% Prec: 0.71 Recall: 0.65 F1: 0.64
+
+Epoch [19/100]
+Train Loss: 1.0384 Acc: 66.74% | Eval Loss: 1.3519 Acc: 64.60% Prec: 0.68 Recall: 0.65 F1: 0.63
+
+Epoch [20/100]
+Train Loss: 0.9757 Acc: 68.87% | Eval Loss: 1.1405 Acc: 67.70% Prec: 0.74 Recall: 0.68 F1: 0.67
+
+Epoch [21/100]
+Train Loss: 0.9358 Acc: 70.23% | Eval Loss: 1.0793 Acc: 71.70% Prec: 0.75 Recall: 0.72 F1: 0.71
+✅ New best model saved with eval accuracy: 71.70%
+
+Epoch [22/100]
+Train Loss: 0.9428 Acc: 69.86% | Eval Loss: 1.2125 Acc: 68.20% Prec: 0.73 Recall: 0.68 F1: 0.66
+
+Epoch [23/100]
+Train Loss: 0.9041 Acc: 71.49% | Eval Loss: 1.0723 Acc: 69.40% Prec: 0.74 Recall: 0.69 F1: 0.69
+
+Epoch [24/100]
+Train Loss: 0.8707 Acc: 71.20% | Eval Loss: 1.0498 Acc: 71.40% Prec: 0.76 Recall: 0.71 F1: 0.71
+
+Epoch [25/100]
+Train Loss: 0.8444 Acc: 72.74% | Eval Loss: 1.0577 Acc: 73.00% Prec: 0.76 Recall: 0.73 F1: 0.72
+✅ New best model saved with eval accuracy: 73.00%
+
+Epoch [26/100]
+Train Loss: 0.8337 Acc: 73.36% | Eval Loss: 1.1341 Acc: 70.20% Prec: 0.74 Recall: 0.70 F1: 0.69
+
+Epoch [27/100]
+Train Loss: 0.8288 Acc: 73.21% | Eval Loss: 1.1193 Acc: 72.40% Prec: 0.76 Recall: 0.72 F1: 0.72
+
+Epoch [28/100]
+Train Loss: 0.7828 Acc: 74.30% | Eval Loss: 1.2223 Acc: 68.90% Prec: 0.73 Recall: 0.69 F1: 0.68
+
+Epoch [29/100]
+Train Loss: 0.7728 Acc: 74.31% | Eval Loss: 1.0852 Acc: 73.10% Prec: 0.77 Recall: 0.73 F1: 0.73
+✅ New best model saved with eval accuracy: 73.10%
+
+Epoch [30/100]
+Train Loss: 0.7982 Acc: 74.90% | Eval Loss: 1.1659 Acc: 70.50% Prec: 0.74 Recall: 0.70 F1: 0.69
+
+Epoch [31/100]
+Train Loss: 0.7596 Acc: 75.14% | Eval Loss: 1.2037 Acc: 72.70% Prec: 0.77 Recall: 0.73 F1: 0.72
+
+Epoch [32/100]
+Train Loss: 0.7477 Acc: 75.81% | Eval Loss: 1.3019 Acc: 70.00% Prec: 0.74 Recall: 0.70 F1: 0.69
+
+Epoch [33/100]
+Train Loss: 0.7246 Acc: 76.44% | Eval Loss: 1.2866 Acc: 70.70% Prec: 0.76 Recall: 0.71 F1: 0.70
+
+Epoch [34/100]
+Train Loss: 0.6971 Acc: 77.14% | Eval Loss: 1.1886 Acc: 72.40% Prec: 0.76 Recall: 0.72 F1: 0.71
+
+Epoch [35/100]
+Train Loss: 0.6897 Acc: 77.57% | Eval Loss: 1.1601 Acc: 73.20% Prec: 0.77 Recall: 0.73 F1: 0.72
+✅ New best model saved with eval accuracy: 73.20%
+
+Epoch [36/100]
+Train Loss: 0.6853 Acc: 77.90% | Eval Loss: 1.2261 Acc: 73.00% Prec: 0.76 Recall: 0.73 F1: 0.72
+
+Epoch [37/100]
+Train Loss: 0.6573 Acc: 78.60% | Eval Loss: 1.1904 Acc: 72.00% Prec: 0.74 Recall: 0.72 F1: 0.71
+
+Epoch [38/100]
+Train Loss: 0.6693 Acc: 78.33% | Eval Loss: 1.2905 Acc: 68.60% Prec: 0.74 Recall: 0.69 F1: 0.68
+
+Epoch [39/100]
+Train Loss: 0.6111 Acc: 79.93% | Eval Loss: 1.1885 Acc: 76.00% Prec: 0.79 Recall: 0.76 F1: 0.76
+✅ New best model saved with eval accuracy: 76.00%
+
+Epoch [40/100]
+Train Loss: 0.6207 Acc: 79.41% | Eval Loss: 1.1570 Acc: 72.70% Prec: 0.75 Recall: 0.73 F1: 0.71
+
+Epoch [41/100]
+Train Loss: 0.6295 Acc: 79.24% | Eval Loss: 1.1358 Acc: 74.90% Prec: 0.78 Recall: 0.75 F1: 0.74
+
+Epoch [42/100]
+Train Loss: 0.5772 Acc: 80.84% | Eval Loss: 1.1450 Acc: 75.00% Prec: 0.79 Recall: 0.75 F1: 0.75
+
+Epoch [43/100]
+Train Loss: 0.5998 Acc: 80.41% | Eval Loss: 1.2196 Acc: 71.20% Prec: 0.74 Recall: 0.71 F1: 0.70
+
+Epoch [44/100]
+Train Loss: 0.5759 Acc: 80.91% | Eval Loss: 1.0789 Acc: 76.30% Prec: 0.79 Recall: 0.76 F1: 0.75
+✅ New best model saved with eval accuracy: 76.30%
+
+Epoch [45/100]
+Train Loss: 0.5549 Acc: 81.59% | Eval Loss: 1.3103 Acc: 71.90% Prec: 0.77 Recall: 0.72 F1: 0.72
+
+Epoch [46/100]
+Train Loss: 0.5905 Acc: 80.76% | Eval Loss: 1.1951 Acc: 73.60% Prec: 0.78 Recall: 0.74 F1: 0.73
+
+Epoch [47/100]
+Train Loss: 0.5512 Acc: 81.69% | Eval Loss: 1.3419 Acc: 71.40% Prec: 0.76 Recall: 0.71 F1: 0.70
+
+Epoch [48/100]
+Train Loss: 0.5607 Acc: 81.61% | Eval Loss: 1.1914 Acc: 73.30% Prec: 0.77 Recall: 0.73 F1: 0.72
+
+Epoch [49/100]
+Train Loss: 0.5615 Acc: 82.31% | Eval Loss: 1.2735 Acc: 71.10% Prec: 0.75 Recall: 0.71 F1: 0.70
+
+Epoch [50/100]
+Train Loss: 0.5457 Acc: 82.20% | Eval Loss: 1.3357 Acc: 72.20% Prec: 0.75 Recall: 0.72 F1: 0.71
+
+Epoch [51/100]
+Train Loss: 0.5327 Acc: 82.70% | Eval Loss: 1.2979 Acc: 72.10% Prec: 0.75 Recall: 0.72 F1: 0.71
+
+Epoch [52/100]
+Train Loss: 0.5292 Acc: 82.71% | Eval Loss: 1.0517 Acc: 74.90% Prec: 0.78 Recall: 0.75 F1: 0.74
+
+Epoch [53/100]
+Train Loss: 0.5193 Acc: 83.00% | Eval Loss: 1.2144 Acc: 72.20% Prec: 0.77 Recall: 0.72 F1: 0.72
+
+Epoch [54/100]
+Train Loss: 0.5175 Acc: 83.10% | Eval Loss: 1.2433 Acc: 76.40% Prec: 0.79 Recall: 0.76 F1: 0.76
+✅ New best model saved with eval accuracy: 76.40%
+
+Epoch [55/100]
+Train Loss: 0.5112 Acc: 83.90% | Eval Loss: 1.2209 Acc: 72.80% Prec: 0.77 Recall: 0.73 F1: 0.73
+
+Epoch [56/100]
+Train Loss: 0.5243 Acc: 82.50% | Eval Loss: 1.5675 Acc: 69.20% Prec: 0.74 Recall: 0.69 F1: 0.68
+
+Epoch [57/100]
+Train Loss: 0.4827 Acc: 83.73% | Eval Loss: 0.9976 Acc: 75.20% Prec: 0.79 Recall: 0.75 F1: 0.75
+
+Epoch [58/100]
+Train Loss: 0.4704 Acc: 84.71% | Eval Loss: 1.0955 Acc: 78.40% Prec: 0.81 Recall: 0.78 F1: 0.78
+✅ New best model saved with eval accuracy: 78.40%
+
+Epoch [59/100]
+Train Loss: 0.4761 Acc: 84.80% | Eval Loss: 1.3030 Acc: 73.30% Prec: 0.76 Recall: 0.73 F1: 0.73
+
+Epoch [60/100]
+Train Loss: 0.4782 Acc: 84.71% | Eval Loss: 1.3061 Acc: 73.90% Prec: 0.81 Recall: 0.74 F1: 0.74
+
+Epoch [61/100]
+Train Loss: 0.4562 Acc: 84.60% | Eval Loss: 1.1245 Acc: 76.80% Prec: 0.81 Recall: 0.77 F1: 0.76
+
+Epoch [62/100]
+Train Loss: 0.4620 Acc: 84.91% | Eval Loss: 1.1861 Acc: 74.90% Prec: 0.77 Recall: 0.75 F1: 0.74
+
+Epoch [63/100]
+Train Loss: 0.4619 Acc: 85.19% | Eval Loss: 1.3994 Acc: 71.00% Prec: 0.76 Recall: 0.71 F1: 0.70
+
+Epoch [64/100]
+Train Loss: 0.4590 Acc: 85.10% | Eval Loss: 1.0918 Acc: 76.20% Prec: 0.79 Recall: 0.76 F1: 0.76
+
+Epoch [65/100]
+Train Loss: 0.4350 Acc: 85.44% | Eval Loss: 1.2483 Acc: 74.50% Prec: 0.77 Recall: 0.74 F1: 0.73
+
+Epoch [66/100]
+Train Loss: 0.4502 Acc: 85.44% | Eval Loss: 1.2689 Acc: 75.00% Prec: 0.79 Recall: 0.75 F1: 0.75
+
+Epoch [67/100]
+Train Loss: 0.4425 Acc: 85.79% | Eval Loss: 1.4104 Acc: 71.80% Prec: 0.77 Recall: 0.72 F1: 0.71
+
+Epoch [68/100]
+Train Loss: 0.4119 Acc: 86.99% | Eval Loss: 1.2885 Acc: 73.90% Prec: 0.77 Recall: 0.74 F1: 0.73
+
+Epoch [69/100]
+Train Loss: 0.4320 Acc: 86.01% | Eval Loss: 1.2058 Acc: 75.40% Prec: 0.79 Recall: 0.75 F1: 0.75
+
+Epoch [70/100]
+Train Loss: 0.4261 Acc: 85.89% | Eval Loss: 1.1749 Acc: 76.60% Prec: 0.79 Recall: 0.77 F1: 0.76
+
+Epoch [71/100]
+Train Loss: 0.4232 Acc: 86.11% | Eval Loss: 1.2243 Acc: 74.90% Prec: 0.78 Recall: 0.75 F1: 0.74
+
+Epoch [72/100]
+Train Loss: 0.4216 Acc: 85.81% | Eval Loss: 1.1853 Acc: 76.40% Prec: 0.80 Recall: 0.76 F1: 0.76
+
+Epoch [73/100]
+Train Loss: 0.4173 Acc: 86.63% | Eval Loss: 1.2581 Acc: 72.70% Prec: 0.77 Recall: 0.73 F1: 0.72
+
+⏹️ Early stopping activado en epoch 73
+
+Evaluating on test set...
+Final Test Results - Loss: 1.2789 | Acc: 72.55% | Prec: 0.77 | Recall: 0.73 | F1: 0.72
+
+Training completed!
+Best model saved as 'best_model_resnet101_flush.pth'
+Training history saved as 'training_history.json'
+📊 Gráfico guardado como 'training_history_resnet101.png'
