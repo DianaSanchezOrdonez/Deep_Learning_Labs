@@ -1,3 +1,5 @@
 images/
 aviones.zip
 variants.txt
+__pycache__/
+*.pyc
